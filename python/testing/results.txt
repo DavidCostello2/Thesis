@@ -1,0 +1,130 @@
+                    Tic Tac Toe                                 
+############################################################### 
+Mcts Easy bot won: 99 times! The bot had 50 Simulations and went first 
+ 
+Random bot won: 0 times! The bot had random moves and went second 
+ 
+It was a Draw: 1 times! Mcts Easy bot had 50 Sims and the random bot had random moves 
+ 
+############################################################### 
+ 
+Random bot won: 6 times! The bot had random moves and went first 
+ 
+Mcts Easy bot won: 84 times! The bot had 50 Simulations and went second 
+ 
+It was a Draw: 10 times! The random bot had random moves and Mcts Easy bot had 50 Sims 
+ 
+ 
+############################################################### 
+ 
+Mcts Easy bot won: 0 times! The bot had 50 Simulations and went first 
+ 
+Mcts Hard bot won: 1 times! The bot had 2000 Simulations and went second 
+ 
+It was a Draw: 99 times! Mcts Easy bot had 50 Sims and Mcts Hard bot had 2500 Sims 
+ 
+############################################################### 
+ 
+Mcts Hard bot won: 74 times! The bot had 2000 Simulations and went First
+ 
+Mcts Easy bot won: 0 times! The bot had 50 Simulations and went Second 
+ 
+It was a Draw: 26 times! Mcts Hard bot had 2000 Sims and Mcts Easy bot had 50 Sims  
+############################################################### 
+ 
+############################################################### 
+ 
+Mcts bot 1 won: 40 times! The bot had 50 Simulations and went First
+ 
+Mcts bot 2 won: 6 times! The bot had 50 Simulations and went Second 
+ 
+It was a Draw: 54 times! Mcts botd had the same number of Sims at 50!  
+############################################################### 
+
+
+
+
+                         Connect 4                              
+############################################################### 
+Mcts Easy bot won: 98 times! The bot had 50 Simulations and went first 
+ 
+Random bot won: 2 times! The bot had random moves and went second 
+ 
+It was a Draw: 0 times! Mcts Easy bot had 50 Sims and the random bot had random moves 
+ 
+############################################################### 
+ 
+Random bot won: 1 times! The bot had random moves and went first 
+ 
+Mcts Easy bot won: 99 times! The bot had 50 Simulations and went second 
+ 
+It was a Draw: 0 times! The random bot had random moves and Mcts Easy bot had 50 Sims 
+ 
+############################################################### 
+ 
+Mcts Easy bot won: 4 times! The bot had 50 Simulations and went first 
+ 
+Mcts Hard bot won: 96 times! The bot had 1000 Simulations and went second 
+ 
+It was a Draw: 0 times! Mcts Easy bot had 50 Sims and Mcts Hard bot had 1500 Sims 
+ 
+############################################################### 
+ 
+Mcts Hard bot won: 98 times! The bot had 1000 Simulations and went First
+ 
+Mcts Easy bot won: 2 times! The bot had 50 Simulations and went Second 
+ 
+It was a Draw: 0 times! Mcts Hard bot had 1000 Sims and Mcts Easy bot had 50 Sims  
+############################################################### 
+############################################################### 
+ 
+Mcts bot 1 won: 8 times! The bot had 50 Simulations and went First
+ 
+Mcts bot 2 won: 2 times! The bot had 50 Simulations and went Second 
+ 
+It was a Draw: 0 times! Mcts botd had the same number of Sims at 50!  
+############################################################### 
+
+
+
+
+                         Othello                              
+############################################################### 
+Mcts Easy bot won: 70 times! The bot had 50 Simulations and went first 
+ 
+Random bot won: 26 times! The bot had random moves and went second 
+ 
+It was a Draw: 4 times! Mcts Easy bot had 50 Sims and the random bot had random moves 
+ 
+############################################################### 
+ 
+Random bot won: 14 times! The bot had random moves and went first 
+ 
+Mcts Easy bot won: 80 times! The bot had 50 Simulations and went second 
+ 
+It was a Draw: 6 times! The random bot had random moves and Mcts Easy bot had 50 Sims 
+ 
+############################################################### 
+ 
+Mcts Easy bot won: 17 times! The bot had 50 Simulations and went first 
+ 
+Mcts Hard bot won: 80 times! The bot had 500 Simulations and went second 
+ 
+It was a Draw: 3 times! Mcts Easy bot had 50 Sims and Mcts Hard bot had 1000 Sims 
+ 
+############################################################### 
+ 
+Mcts Hard bot won: 71 times! The bot had 500 Simulations and went First
+ 
+Mcts Easy bot won: 27 times! The bot had 50 Simulations and went Second 
+ 
+It was a Draw: 2 times! Mcts Hard bot had 500 Sims and Mcts Easy bot had 50 Sims  
+############################################################### 
+############################################################### 
+ 
+Mcts bot 1 won: 5 times! The bot had 50 Simulations and went First
+ 
+Mcts bot 2 won: 4 times! The bot had 50 Simulations and went Second 
+ 
+It was a Draw: 1 times! Mcts botd had the same number of Sims at 50!  
+############################################################### 
